@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nameer1811/nameer1811.github.io/static/css/main.a58dbac3.css",
+    "main.js": "/nameer1811/nameer1811.github.io/static/js/main.d07f74ce.js",
+    "static/media/Me-2.jpg": "/nameer1811/nameer1811.github.io/static/media/Me-2.8b403dedd0e8f0bc439a.jpg",
+    "static/media/Me.jpg": "/nameer1811/nameer1811.github.io/static/media/Me.6d05f2e818dac06d61be.jpg",
+    "static/media/Resume.pdf": "/nameer1811/nameer1811.github.io/static/media/Resume.45115d05bd215cf9e349.pdf",
+    "index.html": "/nameer1811/nameer1811.github.io/index.html",
+    "main.a58dbac3.css.map": "/nameer1811/nameer1811.github.io/static/css/main.a58dbac3.css.map",
+    "main.d07f74ce.js.map": "/nameer1811/nameer1811.github.io/static/js/main.d07f74ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a58dbac3.css",
+    "static/js/main.d07f74ce.js"
+  ]
+}
