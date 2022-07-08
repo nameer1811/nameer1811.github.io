@@ -63,4 +63,8 @@ textarea {
   .container.contact__container {
     width: var(--contianer-width-sm);
   }
+
+  form .btn{
+    margin-left: 110px;
+  }
 }
