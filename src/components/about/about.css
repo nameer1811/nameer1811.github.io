@@ -40,6 +40,7 @@
 
 .technology ul {
   padding-top: 5px;
+  padding-left: 39px;
   list-style-type: none;
   display: grid;
   grid-template-columns: repeat(2, minmax(200px, 10px));

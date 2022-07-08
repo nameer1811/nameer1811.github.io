@@ -23,7 +23,7 @@ const Nav = () => {
     //  else if(window.scrollY >= 1800 && window.scrollY <= 2400){
     //   setActiveNav('#expertise');
     //  }
-     else if(window.scrollY >= 1800 && window.scrollY <= 3600){
+     else if(window.scrollY >= 1800 && window.scrollY <= 2400){
       setActiveNav('#projects');
      }
      else if(window.scrollY >= 2400){
