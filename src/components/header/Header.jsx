@@ -21,7 +21,7 @@ const Header = () => {
         <div className="intro-desc">
           I'm a software engineer and data scientist based in Minnesota. I have
           great interest in data engineering, data analytics, full-stack
-          development, and everything in the realm of artifical intelligence.
+          development, and everything in the realm of artificial intelligence.
         </div>
 
         <CTA />
