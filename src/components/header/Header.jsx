@@ -17,11 +17,11 @@ const Header = () => {
             {" here."}
           </span>
         </Typist>
-        <div className="intro-subtitle">AI/ML/DL enthusiast.</div>
+        <div className="intro-subtitle">Data Engineer @ Mayo Clinic. AI/ML/DL enthusiast.</div>
         <div className="intro-desc">
-          I'm a software engineer and data scientist based in Minnesota. I have
+          I'm a data engineer working at Mayo Clinic and based out of Florida. I have
           great interest in data engineering, data analytics, full-stack
-          development, and everything in the realm of artificial intelligence.
+          development, and everything in the realm of data.
         </div>
 
         <CTA />

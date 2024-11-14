@@ -69,9 +69,22 @@ const ExperienceList = () => {
   };
 
   const experienceItems = {
+    "Mayo Clinic": {
+      jobTitle: "Data Engineer @",
+      duration: "JUN 2023 - PRESENT",
+      desc: [
+        "Maintain clean and organized datasets throughout the research process to ensure high-quality data for analysis",
+        "Generate descriptive summaries of data to provide initial insights and conduct survival analysis, multiple linear\
+        regression, and logistic regression to answer research questions with tables and visualizations",
+        "Collaborate on building data pipelines for machine learning processes and image recognition projects using\
+        Python and R in GCP",
+        "Foster clear communication channels with private investigators and project leads, ensuring project alignment\
+        and timely delivery",
+      ],
+    },
     Spave: {
       jobTitle: "Data Analytics Engineer Intern @",
-      duration: "JUN 2022 - PRESENT",
+      duration: "JUN 2022 - MAY 2023",
       desc: [
         "Develop and automate statistical reporting of test data ",
         "Develop models to create peer comparison statistics",
@@ -81,7 +94,7 @@ const ExperienceList = () => {
     },
     "Watlow Electric Manufacturing Co.": {
       jobTitle: "Software Tester @",
-      duration: "NOV 2021 - PRESENT",
+      duration: "NOV 2021 - DEC 2022",
       desc: [
         "WSU is under contract with Watlow Electric Manufacturing Co (Winona,MN), which provides IoT solutions to its clients",
         "Create automated tests with C#, Composer, and Telerik Test Studio",
@@ -91,7 +104,7 @@ const ExperienceList = () => {
     },
     "Caut!on Tech, LLC ": {
       jobTitle: "Co-Founder/Business Operations Lead @",
-      duration: "JUL 2021 - PRESENT",
+      duration: "JUL 2021 - FEB 2023",
       desc: [
         "Review technical aspects of the mobile app",
         "Oversee marketing, business, and finances of the company",

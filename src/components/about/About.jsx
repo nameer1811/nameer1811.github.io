@@ -5,11 +5,14 @@ import ME from "../../assets/Me-2.jpg";
 const About = () => {
   const tech_stack = [
     "Python",
+    "SQL",
+    "Java",
+    "Google Cloud Platform",
+    "Terraform",
     "R",
     "Tableau",
-    "JMP",
-    "Node.js",
-    "HTML & CSS",
+    "Git",
+    "Linux"
   ];
   return (
     <section id="about">
@@ -25,13 +28,15 @@ const About = () => {
         </div>
         <div className="about__content">
           <p>
-            I am a fourth year <b>Computer Science</b> and <b>Data Science</b>{" "}
+            I am currently pursuing my Master's of Science in <b>Data Analytics</b> at {" "}
+            <b>
+              <a href="https://www.gatech.edu/">Georgia Institute of Technology</a>
+            </b>.
+            I have completed my Bachelor's of Science in <b>Computer Science</b> and <b>Data Science</b>{" "}
             double major at{" "}
             <b>
               <a href="https://www.winona.edu/">Winona State University</a>
-            </b>
-            . I am interested in doing a Ph.D. in Machine Learning after I
-            graduate.
+            </b>.
           </p>
           <div className="technology">
             <p>Here are some of the technologies I like to work with:</p>
